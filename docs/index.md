@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sejal Ramesh Jagtap
 
 You can use the [editor on GitHub](https://github.com/sejalrj/sejaljagtap.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
